@@ -1,5 +1,5 @@
 {
-    "name": "Bottus",
+    "name": "Kernoche",
     "description": " Whatsapp bot.",
     "keywords": [
         "whatsapp",
@@ -46,7 +46,7 @@
         "CLR_SESSION": {
             "description": "Enter true to delete old session.",
             "required": false,
-            "value": "false"
+            "value": "true"
         },
         "NO_ONLINE": {
             "description": "set true to hide online.",
